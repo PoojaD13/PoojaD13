@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @PoojaD13
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+PoojaD13/PoojaD13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+diwnloaded the data set 
+first set we preprocessed the data set 
+loading it
+handling the missing vale 
+listing it and the giving a visual representation 
+and finally displayed the ckean data set 
